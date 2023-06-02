@@ -1,0 +1,25 @@
+.general {
+    color: white;
+    text-align: center;
+}
+a { color: white; }
+.header {
+    background-color: red;
+}
+.navigation {
+    background-color: orange;
+    font-size: large;
+    margin-top: -25px;
+}
+.main {
+    background-color: green;
+    margin-top: -18px;
+}
+article {
+    background-color: blue;
+    text-align: left;
+}
+.footer {
+    background-color: purple;
+    margin-top: -22px;
+}
